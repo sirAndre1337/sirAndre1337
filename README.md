@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sirAndre1337
 - 👀 I’m interested in java , make my own linux(very noob yet)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java,React
+- 📫 How to reach me andrelluis17@hotmail.com
 
 <!---
 sirAndre1337/sirAndre1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
