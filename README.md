@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirAndre1337
-- 👀 I’m interested in java , make my own linux(very noob yet)
-- 🌱 I’m currently learning java,React
+- 👀 I’m interested in learn new technologies and make my own linux(very noob yet)
+- 🌱 I’m currently learning java/javascript,React
 - 📫 How to reach me andrelluis17@hotmail.com (61) 985878097(zap)
 - 2 projetos na nuvem 
 - https://andre-dscatalog.netlify.app/  User/password : andre@gmail.com - 123456
