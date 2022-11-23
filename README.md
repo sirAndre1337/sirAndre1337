@@ -18,6 +18,7 @@ My name is André Lacerda I am passionate about technology. I'm studying React a
 </h1><br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 <div align="left">
